@@ -1,8 +1,4 @@
-Aqui está uma **versão reduzida contendo apenas as informações mais relevantes**, sem autor e sem notas pessoais. Ideal para um repositório simples no GitHub. 🚀
-
----
-
-# 🧠 Laboratório de Ataques de Força Bruta com Medusa
+# 🧠 Laboratório de Ataques BRUTEFORCE com Medusa
 
 ## 📌 Visão Geral
 
